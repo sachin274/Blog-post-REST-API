@@ -1,0 +1,1 @@
+Built a RESTful API using Node.js and Express to manage blog posts with CRUD operations. Implemented endpoints for creating, retrieving, updating, and deleting posts using in-memory data storage and JSON parsing with body-parser.
